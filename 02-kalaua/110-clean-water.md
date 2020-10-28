@@ -1,6 +1,6 @@
 ---
 title: Cleaning the pool water
-keywords: paint: paint, refreshener
+keywords: paint, refreshener, freshener
 ---
 
 The pool water is yuck! Where is it coming, even?
