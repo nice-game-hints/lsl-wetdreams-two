@@ -25,6 +25,3 @@ Use the telescope to find hints about Faith.
 
 # Pi!
 Pi will ask if you managed to [piece out Faith's fate](020-whereabouts.md).
-
-
-[tbd](tbd)
