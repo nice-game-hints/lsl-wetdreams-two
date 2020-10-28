@@ -28,7 +28,7 @@ Not the looks, not the stereotype view of all blonde women, not the feeling. Not
 
 # Where?
 The festival is on the left. There is a box of glowsticks. Click on them.
-![Glowsticks at the festival](telescope_glowstick.png)
+![Glowsticks at the festival](telescope_glowsticks.png)
 
 # What next?
 Find someone who attended the festival, also.
