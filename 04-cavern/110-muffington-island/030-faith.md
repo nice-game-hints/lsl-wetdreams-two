@@ -11,5 +11,6 @@ Get rid of [Superior Sister Frigid](020-sister-superior/index.md) for her.
 # She throws me out!
 [Find and open the cavern](../../100-gofuku-island/060-cavern/index.md), first.
 
-[tbd](tbd)
+# It is open
+Get back to Faith and convince her to come with Larry to the cave.
 

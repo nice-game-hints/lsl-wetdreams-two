@@ -25,3 +25,6 @@ Now, now... roleplayers are nice bunch.
 
 # Cleared all of them!
 And you found the cavern. To open it you need to have all [four keystones](../../index.md).
+
+# I have all four
+Put them into the corresponding sockets. Then go tell [Faith](../../110-muffington-island/030-faith.md).
