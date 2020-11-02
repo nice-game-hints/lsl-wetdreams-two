@@ -26,7 +26,7 @@ She never turned around. So no combinations of NS, SN, EW, WE.
 No counter-clockwise. So no combinations of NW, WS, SE, EN.
 
 # More?
-Only go to same direction after done every direction before. So the first four letters are NSWE and the last four letters are combination of NWES.
+Only go to same direction after done every direction before. So the first four letters are a combination of NSWE and the last four letters are a combination of NWES.
 
 # Show me!
 Here is one working combination: NESWWNES

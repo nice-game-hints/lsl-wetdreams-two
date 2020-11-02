@@ -12,7 +12,7 @@ The light beam is surely the key here. You should reflect it with someting in th
 Use the hand mirror that you can find from the totem at Muffington Island.
 
 # Something's missing
-Yeah, the round are would need something.
+Yeah, the round area would need something.
 
 # What?
 Did you spot those round stone slabs around the island?

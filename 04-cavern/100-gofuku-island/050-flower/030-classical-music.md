@@ -1,5 +1,5 @@
 ---
-title: Dulect tones of classical music
+title: Dulcet tones of classical music
 keywords: vagina plantata, piano, recorder, classic
 ---
 

@@ -18,4 +18,4 @@ The logic is a little different from Nari's... or not that much.
 You should count how many denies there are per direction. The direction with the least denies is the correct direction. There is actually only one deny in Lefty's notes for the correct direction. The wrong directions have multiple denies.
 
 # Thanks! Show me the note
-![Lefty's note](lefty_note.png)
+![Lefty's note](lefto_note.png)
