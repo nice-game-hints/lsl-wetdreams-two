@@ -1,0 +1,14 @@
+ITEMS:
+ - Pipe, next to the helicopter
+ - Battery, next to the helicopter
+ - Screwdriver
+ - Duct tape
+ - Test tube
+ - 
+
+
+Computer:
+ - The elevator has power now
+
+Read Diary:
+ - Waterfall controls were switched to clapping controls
