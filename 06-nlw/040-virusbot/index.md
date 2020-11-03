@@ -8,6 +8,6 @@ You get more information about that when you get to the Prune Office ^[ Use Wang
 
 # How to improve it?
  - [Improved facial makeup](040-makeup.md)
- - [An arm with enhanced satisfaction function](050-enchanced-arm.md)
+ - [An arm with enhanced satisfaction function](050-enhanced-arm.md)
  - [Slimmer calves](030-calves.md)
- - [Improved nucular engine](080-nucular-engine.md)
+ - [Improved nucular engine](080-nucular-engine/index.md)
