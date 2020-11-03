@@ -6,7 +6,7 @@ keywords: gofuku, larp, nerds, symbols
 Swingle's records show that the cavern is somewhere in the ruins of Gofuku Island. Go check left from the raft.
 
 # There is the ruins entrance!
-Well, [open it](../010-ruins.md)
+Well, [open it](../010-ruins-passage.md)
 
 # It is open!
 You will encounter three rooms you should work through. They are full of danger and traps!

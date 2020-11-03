@@ -30,7 +30,7 @@ Lewis. His jokes were lame. Something about orcs and paladins. Go tell him that 
 
 # Oh!
 So, he lost his joke book and now he has a _role-playing book_?! Perfect.
-You just have to find his [joke book](../120-kalaua-island/050-joke-book.md), first.
+You just have to find his [joke book](../../120-kalaua-island/050-joke-book.md), first.
 
 # I have the joke book
 Give it to Lewis. You get the role-playing book to help tell better stories.

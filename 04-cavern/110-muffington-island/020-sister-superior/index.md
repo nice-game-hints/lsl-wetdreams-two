@@ -6,7 +6,7 @@ keywords: ghost, faith, frigid
 Superior Sister Frigid is a ghost that is ahaunting the cannibals at Muffington Island. You sould do them a great favor by driving her away.
 
 # Where is she?
-You can find her grave at the cemetery. Go right from the village yard. Deal with [Wendi](010-wendi.md), first. It is the prominent grave in the middle, on top of the pile of sand.
+You can find her grave at the cemetery. Go right from the village yard. Deal with [Wendi](../010-wendi.md), first. It is the prominent grave in the middle, on top of the pile of sand.
 
 # I found the grave
 You should now contact her.

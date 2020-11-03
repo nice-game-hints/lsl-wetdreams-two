@@ -23,4 +23,4 @@ Then invite the correct group to [the first room](060-cavern/010-first-room.md).
 # Cleared!
 clear the other two rooms, also:
  - [Second room](060-cavern/020-second-room.md)
- - [Third room](060-cavern/020-third-room.md)
+ - [Third room](060-cavern/030-third-room.md)
