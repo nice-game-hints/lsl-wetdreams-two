@@ -20,7 +20,7 @@ You still have the blueprint and you can build another engine.
  - Cables ^[ Found on the floor in one of the rooms. ]
  - Battery ^[ Found on the floor in one of the rooms. ]
  - Mounting bracket ^[ Use the glue found from Prune office. ]
- - [Radioactive liquid](090-radioactive-liquid.md)
+ - [Radioactive liquid](010-radioactive-liquid.md)
 
 # I built it!
 Nice! Put it into the Virus Bot.
