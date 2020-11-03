@@ -1,5 +1,6 @@
 ---
 title: New Lost Wages
+keywords: resistance, nari, dungeon, labyrinth
 ---
 
-[tbd](tbd)
+The resistance is brewing in the undergrounds of New Lost Wages.
