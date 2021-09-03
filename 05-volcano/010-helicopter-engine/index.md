@@ -10,7 +10,7 @@ You need:
  - [A glass ball](010-glass-ball.md)
  - [Some copper wires](020-copper.md)
  - Some wires ^[ You can find wires from the computer desk drawer. ]
- - A battery ^[ A battery is laying on the floor, next to the helicopter. ]
+ - A battery ^[ A battery is laying on the crate, next to the helicopter. ]
  - A mounting bracket ^[ Use the tape you find next to the strange machine. ]
  - [Radioactive fluid](030-radioactive.md)
 
