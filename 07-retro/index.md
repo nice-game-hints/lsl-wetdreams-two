@@ -1,6 +1,6 @@
 ---
 title: Retro Larry
-keywords: retro
+keywords: retro, simulation, simulator, piper
 ---
 
 Retro Larry, again! This time Larry is living the perfect life with Pi... Piper.
