@@ -1,6 +1,6 @@
 ---
 title: Getting to the observation deck
-keywords: gold, member, telescope, faith
+keywords: gold, member, telescope, faith, binoculars
 ---
 
 The observation deck would be great place to look for Faith.
