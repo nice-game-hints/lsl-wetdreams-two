@@ -1,6 +1,6 @@
 ---
 title: Piecing Fait's whereabouts together
-keywords: faith, hints, observer deck, telescope
+keywords: faith, hints, observer deck, telescope, binoculars
 ---
 
 At [the observation deck](../020-observation-deck.md) every time you look through [the telescope](../030-dollar.md) Pi will ask if you know what happened to Faith. This guide will tell you how to know the answer to every step in Faith's actions.
